@@ -1,0 +1,10 @@
+go 1.27.0
+
+use (
+	.
+	./example/gin
+	./example/pgx
+	./example/stdlib
+	./feature/pgx
+	./feature/stdlib
+)

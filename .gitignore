@@ -1,0 +1,8 @@
+# Go build and test artefacts
+*.test
+*.out
+coverage.out
+
+# Local IDE and operating-system files
+.idea/
+.DS_Store
